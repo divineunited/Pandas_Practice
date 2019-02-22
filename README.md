@@ -1,7 +1,7 @@
 Pandas Exercises to Perfection
 ==============
 
-My attempt at different Pandas Exercises to master this amazing data analysis skillset.
+Different Pandas Exercises to evolve from a Pandas Padawan to a Pandas Jedi.
 --------------
 
-*With much thanks to guipsamora and his pandas exercises!*
+*With much thanks to guipsamora!*
